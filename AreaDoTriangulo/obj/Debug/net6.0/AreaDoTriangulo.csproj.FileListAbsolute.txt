@@ -1,0 +1,15 @@
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\net6.0\AreaDoTriangulo.exe
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\net6.0\AreaDoTriangulo.deps.json
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\net6.0\AreaDoTriangulo.runtimeconfig.json
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\net6.0\AreaDoTriangulo.dll
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\net6.0\AreaDoTriangulo.pdb
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.csproj.AssemblyReference.cache
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.AssemblyInfoInputs.cache
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.AssemblyInfo.cs
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.dll
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\refint\AreaDoTriangulo.dll
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.pdb
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\AreaDoTriangulo.genruntimeconfig.cache
+C:\Users\deiso\source\repos\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\net6.0\ref\AreaDoTriangulo.dll
